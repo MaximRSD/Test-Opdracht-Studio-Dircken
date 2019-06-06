@@ -140,6 +140,7 @@ nav ul li a:hover {
 	background-position: center;
 	background-size:cover;
 	display:table;
+	margin-left:-9px;
 }
 
 .hoogte{
