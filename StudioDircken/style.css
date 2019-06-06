@@ -310,6 +310,7 @@ nav ul li a:hover {
     padding:0.025px;
     font-family: 'PT Sans', sans-serif;
     font-size:14px;
+    margin-top:-10px;
 }
 
 .klant{
